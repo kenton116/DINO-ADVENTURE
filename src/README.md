@@ -1,2 +1,0 @@
-# DINO-ADVENTURE
-Chromeのあのゲームです
